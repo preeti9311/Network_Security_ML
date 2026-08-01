@@ -1,0 +1,2 @@
+2026-08-01 11:54:22,995 - INFO - CSV file 'Network_Data/phisingData.csv' read successfully.
+2026-08-01 11:54:23,049 - ERROR - Failed to convert CSV to JSON: 'str' object has no attribute 'read'

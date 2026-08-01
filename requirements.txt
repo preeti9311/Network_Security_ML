@@ -1,7 +1,9 @@
 python-dotenv
 pandas
+dotenv
 numpy
 pymongo
+pymongo[srv]==3.12
 certifi
 
 # -e .
