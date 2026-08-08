@@ -1,0 +1,11 @@
+2026-08-08 08:14:55,332 - INFO - Initiating data ingestion process...
+2026-08-08 08:14:59,595 - INFO - Performed train test split on the dataset
+2026-08-08 08:14:59,595 - INFO - Exited split_data_as_train_test method of DataIngestion class
+2026-08-08 08:14:59,595 - INFO - Exporting train and test file path
+2026-08-08 08:14:59,650 - INFO - Exported train and test file path
+2026-08-08 08:14:59,656 - INFO - Initiating data validation process...
+2026-08-08 08:14:59,787 - INFO - Required number of columns: 31
+2026-08-08 08:14:59,787 - INFO - Dataframe has columns: 31
+2026-08-08 08:14:59,787 - INFO - Required number of columns: 31
+2026-08-08 08:14:59,788 - INFO - Dataframe has columns: 31
+2026-08-08 08:14:59,974 - INFO - data Validation Completed

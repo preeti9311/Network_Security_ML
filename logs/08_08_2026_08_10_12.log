@@ -1,0 +1,41 @@
+2026-08-08 08:10:15,158 - INFO - Initiating data ingestion process...
+2026-08-08 08:10:20,246 - INFO - Performed train test split on the dataset
+2026-08-08 08:10:20,246 - INFO - Exited split_data_as_train_test method of DataIngestion class
+2026-08-08 08:10:20,247 - INFO - Exporting train and test file path
+2026-08-08 08:10:20,294 - INFO - Exported train and test file path
+2026-08-08 08:10:20,299 - INFO - Initiating data validation process...
+2026-08-08 08:10:20,382 - INFO - Required number of columns: 31
+2026-08-08 08:10:20,382 - INFO - Dataframe has columns: 31
+2026-08-08 08:10:20,382 - INFO - Required number of columns: 31
+2026-08-08 08:10:20,383 - INFO - Dataframe has columns: 31
+2026-08-08 08:10:20,394 - INFO - Column: having_IP_Address has drifted. P-value: 0.9687622789382879
+2026-08-08 08:10:20,396 - INFO - Column: URL_Length has drifted. P-value: 0.9999971010402764
+2026-08-08 08:10:20,398 - INFO - Column: Shortining_Service has drifted. P-value: 0.9999999977781104
+2026-08-08 08:10:20,400 - INFO - Column: having_At_Symbol has drifted. P-value: 0.999999999999956
+2026-08-08 08:10:20,404 - INFO - Column: double_slash_redirecting has drifted. P-value: 1.0
+2026-08-08 08:10:20,406 - INFO - Column: Prefix_Suffix has drifted. P-value: 1.0
+2026-08-08 08:10:20,409 - INFO - Column: having_Sub_Domain has drifted. P-value: 0.9236254567999284
+2026-08-08 08:10:20,415 - INFO - Column: SSLfinal_State has drifted. P-value: 0.7009958426886144
+2026-08-08 08:10:20,417 - INFO - Column: Domain_registeration_length has drifted. P-value: 1.0
+2026-08-08 08:10:20,420 - INFO - Column: Favicon has drifted. P-value: 1.0
+2026-08-08 08:10:20,423 - INFO - Column: port has drifted. P-value: 0.9999890535726116
+2026-08-08 08:10:20,427 - INFO - Column: HTTPS_token has drifted. P-value: 0.9999999998789996
+2026-08-08 08:10:20,431 - INFO - Column: Request_URL has drifted. P-value: 0.9860900857001905
+2026-08-08 08:10:20,438 - INFO - Column: URL_of_Anchor has drifted. P-value: 1.0
+2026-08-08 08:10:20,445 - INFO - Column: Links_in_tags has drifted. P-value: 0.4965219237945278
+2026-08-08 08:10:20,452 - INFO - Column: SFH has drifted. P-value: 0.9999999998789996
+2026-08-08 08:10:20,457 - INFO - Column: Submitting_to_email has drifted. P-value: 0.9999654772410788
+2026-08-08 08:10:20,459 - INFO - Column: Abnormal_URL has drifted. P-value: 1.0
+2026-08-08 08:10:20,462 - INFO - Column: Redirect has drifted. P-value: 0.9958579353974752
+2026-08-08 08:10:20,465 - INFO - Column: on_mouseover has drifted. P-value: 0.9985597993583677
+2026-08-08 08:10:20,467 - INFO - Column: RightClick has drifted. P-value: 0.9999999999876384
+2026-08-08 08:10:20,471 - INFO - Column: popUpWidnow has drifted. P-value: 0.999931781258988
+2026-08-08 08:10:20,473 - INFO - Column: Iframe has drifted. P-value: 1.0
+2026-08-08 08:10:20,477 - INFO - Column: age_of_domain has drifted. P-value: 0.9914952304622426
+2026-08-08 08:10:20,479 - INFO - Column: DNSRecord has drifted. P-value: 1.0
+2026-08-08 08:10:20,483 - INFO - Column: web_traffic has drifted. P-value: 0.9739932435377546
+2026-08-08 08:10:20,486 - INFO - Column: Page_Rank has drifted. P-value: 0.9914952304622426
+2026-08-08 08:10:20,489 - INFO - Column: Google_Index has drifted. P-value: 0.9999999883158472
+2026-08-08 08:10:20,491 - INFO - Column: Links_pointing_to_page has drifted. P-value: 0.9993864328065777
+2026-08-08 08:10:20,493 - INFO - Column: Statistical_report has drifted. P-value: 1.0
+2026-08-08 08:10:20,495 - INFO - Column: Result has drifted. P-value: 1.0
