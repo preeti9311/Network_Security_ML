@@ -1,2 +1,28 @@
+# Virtual environment
 venv/
+.venv/
+
+# Environment variables / secrets
 .env
+
+# Logs
+logs/
+*.log
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Generated artifacts
+artifact/
+
+# Data
+Network_Data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
