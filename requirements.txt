@@ -8,6 +8,8 @@ scikit-learn
 certifi
 dill
 mlflow
+dagshub
 pyyaml
-
+fastapi
+uvicorn
 # -e .
