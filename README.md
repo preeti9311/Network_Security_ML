@@ -1,7 +1,7 @@
 # 🛡️ End-to-End Network Security ML System
 [![Live Demo](https://img.shields.io/badge/Render-Live%20Demo-brightgreen)](https://network-security-ml-nm0k.onrender.com/docs)
 [![Docker](https://img.shields.io/badge/Docker-Containerized-blue)](https://github.com/preeti9311/Network_Security_ML/blob/main/Dockerfile)
-[![CI/CD Pipeline](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/deploy.yml/badge.svg)](https://github.com/preeti9311/Network_Security_ML/actions)
+[![CI/CD Pipeline](https://github.com/preeti9311/Network_Security_ML/actions/workflows/deploy.yml/badge.svg)](https://github.com/preeti9311/Network_Security_ML/actions)
 
 An industrial-grade End-to-End Machine Learning pipeline that predicts network security threats. Built with **FastAPI**, **Docker**, **MongoDB Atlas**, **MLflow**, and deployed via **GitHub Actions** on **Render**.
 
